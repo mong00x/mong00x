@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mong00x
-- 👀 I’m interested in Web Development, frontend dev specificly
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Web Development, frontend specificly
+- 🌱 I’m currently working on my portfolio website
 - 💞️ I’m looking to collaborate on any projects matching my skillset 
 
 <!---
