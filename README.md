@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @mong00x
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on improving some of the previous projects, and learning new stuff
-- 💞️ I’m looking to collaborate on any projects matching my skillset 
+### Hi there 👋
+
+🚨 Check out [my website](https://mengyuan.dev/)
+🌱 Always learning web development
+🚀 Full Stack Developer
+🐾 Proud owner of Metro and Bobo
+🙉 Hobbies include fitness, cooking, and reading tech blogs
 
 <!---
 mong00x/mong00x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
