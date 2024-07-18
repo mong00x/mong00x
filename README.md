@@ -1,5 +1,5 @@
 ### Hi there 👋
-  - 🚨 Check out [my website](https://mengyuan.dev/)
+  - 🚨 [My website](https://mengyuan.dev/)
   - 🌱 Always learning web development
   - 🚀 Full Stack Developer
   - 🐾 Proud owner of Metro and Bobo
