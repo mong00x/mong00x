@@ -9,5 +9,3 @@
 mong00x/mong00x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<iframe src="https://amaranth-abbe-75.tiiny.site" width="500" height="500" allowfullscreen></iframe>
